@@ -24,8 +24,6 @@ body {
   width: 320px;
   display: flex;
   justify-content: center;
-
-
 }
 
 .robot-body {
@@ -50,21 +48,19 @@ body {
 }
 
 .robot-head-right {
-  left: 280px;
-  top: 20px;
+  left: 17.5em;
+  bottom: 3.25em;
 }
 
 .robot-head-left {
-  right: 280px;
-  top: 20px;
+  right: 17.5em;
+  bottom: 3.25em;
 }
 
 .robot:hover >.robot-head-left {
-  right: 320px;
-  top: 15px;
+
 }
 
 .robot:hover >.robot-head-right {
-  left: 320px;
-  top: 15px;
+
 }
