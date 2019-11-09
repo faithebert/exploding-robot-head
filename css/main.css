@@ -54,3 +54,13 @@ body {
   right: 280px;
   top: 20px;
 }
+
+.robot:hover >.robot-head-left {
+  right: 320px;
+  top: 15px;
+}
+
+.robot:hover >.robot-head-right {
+  left: 320px;
+  top: 15px;
+}
