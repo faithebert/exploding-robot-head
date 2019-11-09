@@ -22,6 +22,10 @@ body {
 
 .robot {
   width: 320px;
+  display: flex;
+  justify-content: center;
+
+
 }
 
 .robot-body {
