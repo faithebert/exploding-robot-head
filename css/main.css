@@ -57,10 +57,12 @@ body {
   bottom: 3.25em;
 }
 
-.robot:hover >.robot-head-left {
-
+.robot:hover > .robot-head-left {
+  left: 1em;
+  top: .5em;
 }
 
-.robot:hover >.robot-head-right {
-
+.robot:hover > .robot-head-right {
+  right: .3em;
+  top: .5em;
 }
